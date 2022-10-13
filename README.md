@@ -36,7 +36,7 @@ https://hiroloquy.com/2021/07/11/rounded-pentagram-animation/ -->
 
 ### YouTube
 http://www.youtube.com/watch?v=QV9VjzVDZGg  
-[![Complex Dynamics -Mandelbrot Set / Julia Set- [gnuplot]](http://img.youtube.com/vi/QV9VjzVDZGg/0.jpg)](http://www.youtube.com/watch?v=fVgKuu6r7Nk "Segway Simulation: Two examples of parameter tuning [gnuplot] #Shorts")
+[![Complex Dynamics -Mandelbrot Set / Julia Set- [gnuplot]](http://img.youtube.com/vi/QV9VjzVDZGg/0.jpg)](http://www.youtube.com/watch?v=QV9VjzVDZGg "Complex Dynamics -Mandelbrot Set / Julia Set- [gnuplot]")
 
 ## License
 "mandelbrot-and-julia-sets" is under [MIT license](https://github.com/hiroloquy/mandelbrot-and-julia-sets/blob/master/LICENSE).
